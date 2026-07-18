@@ -14,6 +14,8 @@ While there were a couple resources online that have attempted the same thing (s
 | N20 Motor    | [Amazon](https://www.amazon.com/Waveshare-All-Metal-Precision-Reduction-Connector/dp/B0CW1TCCTL/ref=sr_1_7?adgrpid=189241628569&dib=eyJ2IjoiMSJ9.injWYB3xXU30kLoB_z0HI2z1U5T7u0iZTN_DXQVUSQxYx56YyG30QxeDBZd4CKR70iRacdd9ebEye0GkEE8HXQu9TKDgIvdNwp1yqw6G6fB2hIk_yaQfixUWnREY0JmaEOgePj9KcEQJDdgYsCwCA1l-X7y4sZhREkyKlHbWLCi4CRD0eg65P6qpkRYur8-i-A_WTRIovIkVLw0Ifqce3zbjYrZP1MTi2ct69AcJrZ5d6rtUPOS2AH3zMW3w99U8Zwtuu2SG-D1sa1NqH-HEQdYcPDx6pWmIWBm1QN0jKaM.7dIoZVTmF9UJ5ghNruIJMC_qHgFYaSYByLAkl347cDg&dib_tag=se&hvadid=814208805561&hvdev=c&hvexpln=0&hvlocphy=9053131&hvnetw=g&hvocijid=2238680324220082900--&hvqmt=e&hvrand=2238680324220082900&hvtargid=kwd-984224244204&hydadcr=4126_13623928_18377&keywords=n20+gear+motor+with+encoder&mcid=b36959f0bad638458a5997e68771671e&qid=1784302286&sr=8-7)  | $10.99 | ------|
 | Microcontroller/Driver    | [Amazon](https://www.amazon.com/dp/B014KMHSW6?lv=shuf&channelId=500&plpRedirect=mhFallback) | $6.99 | Using the L298N, though you can use any compatible driver |
 | 3D Printed Parts    | [CAD Files] | ------ | Price depends on your means of printing it |
+| Microcontroller     | ------ | Pre-owned | Will be using Raspberry Pi 5 |
+| Total     | ------ | **$92.97** | ----- |
 
 ## Acknowledgements
 [LIDAR PointCloud: 3D Mapping With Stepper Motor Control and Visualizer](https://www.instructables.com/LIDAR-PointCloud-3D-Mapping-With-Stepper-Motor-Con/)
