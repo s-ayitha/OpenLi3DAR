@@ -1,6 +1,8 @@
 # OpenLi3DAR
 A repository dedicated to open sourcing a way to convert a RPLiDAR C1 to a 3D LiDAR under $100
 
+<img width="288" height="294" alt="image" src="https://github.com/user-attachments/assets/f59f3ba5-eb61-40d2-abf0-ba2925115169" />
+
 ## About The Project
 This project started when I felt confined by the limits of a LiDAR that takes a 2D slice of its surroundings. When I used the RPLiDAR C1 on one of my other projects, [Weedl](https://github.com/sayithaStructs/Weedl), I started to understand the limitations with this 2D slice. Since Weedl was supposed to operate in open backyards, where there may be no fence or objects for the lasers to bounce back, oftentimes I would get incomplete maps. I didn't have the budget to afford the fancy 3D LiDARs out there, so I decided to see if I can modify my existing 2D LiDAR to get a 3D scan of Weedl's surroundings. 
 
